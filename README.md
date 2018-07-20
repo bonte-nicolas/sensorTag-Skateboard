@@ -4,10 +4,12 @@
 `git clone https://github.com/bonte-nicolas/sensorTag-Skateboard.git`
 ## Lancement
 ### reader sensortag 
-`cd SensorTag`
+`cd SensorTagReader`
+
 `node main.js`
 
 ### site pour afficher la base de données 
-`cd site-IoT`
+`cd siteIOT`
+
 `node index.js`
 
